@@ -1,13 +1,11 @@
 /**
- * @class: Triangle
+ * @class: primeNumber
  * @author: Yousra bibi
  * @course: ITEC 2140 -05, 2023
  * @version: 1.0
- * @date: 02/09/2023
- * @description: this program will calculate the perimeter of a triangle.
+ * @date: 02/28/2023
+ * @description: this program will check if the number entered is a prime number.
  */
-
-
 import java.util.Scanner;
 public class primeNumber {
     public static void main(String[] args) {

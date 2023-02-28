@@ -1,3 +1,11 @@
+/**
+ * @class: studentGrades
+ * @author: Yousra bibi
+ * @course: ITEC 2140 -05, 2023
+ * @version: 1.0
+ * @date: 02/28/2023
+ * @description: this program will calculate the average grade.
+ */
 import java.util.Scanner;
 public class studentGrades {
     public static void main(String[] args)
